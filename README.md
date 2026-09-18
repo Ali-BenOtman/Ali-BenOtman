@@ -1,6 +1,6 @@
 # Hi, I'm Ali 👋
 
-Software Engineer based in Istanbul, focused on full-stack development, machine learning, and
+Software Engineer based in Istanbul, focused on full-stack development and
 game development. I like building things end-to-end — from architecture to a working deployed
 product, not just prototypes.
 
